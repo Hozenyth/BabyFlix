@@ -1,7 +1,7 @@
 # BabyFlix
 Inspirado na Netflix foi criado o <strong>Babyflix</strong>.
 
-  <img src="/Hozenyth/BabyFlix/blob/main/img/ezgif.com-gif-maker.gif?raw=true" alt="ezgif.com-gif-maker.gif">
+  <img src="/img/ezgif.com-gif-maker.gif?raw=true" alt="ezgif.com-gif-maker.gif">
 <h2><a id="user-content-rocket-tecnologias" class="anchor" aria-hidden="true" href="#rocket-tecnologias">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <h2>🚀</g-emoji> Tecnologias</h2>
